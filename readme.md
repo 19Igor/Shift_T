@@ -3,6 +3,8 @@
 2. Перейдите в корневую папку проекта.
 3. Запустите следующую команду в терминале:
 ```
+mvn clean
+mvn package
 java -jar target/util-1.0-SNAPSHOT-jar-with-dependencies.jar -f -p sample- in1.txt in2.txt
 ```
 После выполнения этой команды результат появится в консоли, а файлы создадутся в корневой папке.
