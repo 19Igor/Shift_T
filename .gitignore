@@ -2,6 +2,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+!target/util-1.0-SNAPSHOT-jar-with-dependencies.jar
+!target/util-1.0-SNAPSHOT.jar
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
